@@ -8,7 +8,7 @@
 
 📂 Projects:
 - Recipe Maker
-- OS Resource Manager
+- Face Recognition Attendance System with Eye Blink Detection
 
 📫 Connect with me on LinkedIn [Diya Nautiyal] (https://www.linkedin.com/in/diya-nautiyal-9123a9419?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
