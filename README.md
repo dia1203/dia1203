@@ -10,6 +10,6 @@
 - Recipe Maker
 - OS Resource Manager
 
-📫 Connect with me on LinkedIn#
+📫 Connect with me on LinkedIn
 
 
